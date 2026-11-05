@@ -13,7 +13,7 @@
 | [Public/Convert-UrlEncoding.ps1](Public/Convert-UrlEncoding.ps1) | ps1 | Encodes or decodes URLs based on the specified mode. |
 | [Public/Convert-WSLPath.ps1](Public/Convert-WSLPath.ps1) | ps1 | Converts file paths between Windows and Windows Subsystem for Linux (WSL) formats. |
 | [Public/ConvertTo-ImageFormat.ps1](Public/ConvertTo-ImageFormat.ps1) | ps1 |  |
-| [Public/Convertto-TitleCase.ps1](Public/Convertto-TitleCase.ps1) | ps1 | Convert Text to TitleCase |
+| [Public/ConvertTo-TitleCase.ps1](Public/ConvertTo-TitleCase.ps1) | ps1 | Convert Text to TitleCase |
 | [Public/Get-AnsiString.ps1](Public/Get-AnsiString.ps1) | ps1 | Builds an Ansi escape sequence string for setting the foreground or background color. |
 | [Public/Get-ComObject.ps1](Public/Get-ComObject.ps1) | ps1 | Retrieves COM objects from the Windows Registry that match specified filter criteria. |
 | [Public/Get-ElementName.ps1](Public/Get-ElementName.ps1) | ps1 | Get the name of an element. |
