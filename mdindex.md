@@ -1,4 +1,4 @@
-# wozTools
+# WozTools
 
 <!-- index:start -->
 ## Public
