@@ -91,7 +91,7 @@
 | [Lib/PSScriptAnalyzerSettings/PSScriptAnalyzerSettings.psd1](Lib/PSScriptAnalyzerSettings/PSScriptAnalyzerSettings.psd1) | psd1 |  |
 | [Lib/SecureStringTransform/SecureStringTransform.ps1](Lib/SecureStringTransform/SecureStringTransform.ps1) | ps1 | Transforms input into a SecureString |
 | [Lib/show-gists-template.html](Lib/show-gists-template.html) | html |  |
-| [Lib/Ude/readme.txt](Lib/Ude/readme.txt) | txt | github - https://github.com/chrisquirk/ude |
+| [Lib/Ude/readme.txt](Lib/Ude/readme.txt) | txt | GitHub - https://github.com/chrisquirk/ude |
 | [Lib/Ude/Ude.dll](Lib/Ude/Ude.dll) | dll |  |
 | [Lib/user gist template-old.html](Lib/user gist template-old.html) | html |  |
 | [Lib/Vanara.Windows.Shell.Common/WozDev-SetSlideshow.dll](Lib/Vanara.Windows.Shell.Common/WozDev-SetSlideshow.dll) | dll |  |
