@@ -1,4 +1,4 @@
-# wozTools File Index
+# WozTools File Index
 
 <!-- index:start -->
 ## Public
