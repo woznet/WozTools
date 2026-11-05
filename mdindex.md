@@ -93,7 +93,7 @@
 | [Lib/show-gists-template.html](Lib/show-gists-template.html) | html |  |
 | [Lib/Ude/readme.txt](Lib/Ude/readme.txt) | txt | github - https://github.com/chrisquirk/ude |
 | [Lib/Ude/Ude.dll](Lib/Ude/Ude.dll) | dll |  |
-| [Lib/user gist template-old.html](Lib/user gist template-old.html) | html |  |
+| [Lib/user gist template-old.html](Lib/user%20gist%20template-old.html) | html |  |
 | [Lib/Vanara.Windows.Shell.Common/WozDev-SetSlideshow.dll](Lib/Vanara.Windows.Shell.Common/WozDev-SetSlideshow.dll) | dll |  |
 | [Lib/WozTools-Config.ps1](Lib/WozTools-Config.ps1) | ps1 | Join-Path $PSScriptRoot -ChildPath WozTools-Config.ps1 |
 
